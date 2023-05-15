@@ -2,6 +2,6 @@
 
 
 # Additional libraries:
-- Item Basic Linear Algebra: https://github.com/tomstewart89/BasicLinearAlgebra
-- Item ArduinoBLE: https://www.arduino.cc/reference/en/libraries/arduinoble/
-- Item FreeRTOS https://github.com/BriscoeTech/Arduino-FreeRTOS-SAMD21
+- Basic Linear Algebra: https://github.com/tomstewart89/BasicLinearAlgebra
+- ArduinoBLE: https://www.arduino.cc/reference/en/libraries/arduinoble/
+- FreeRTOS https://github.com/BriscoeTech/Arduino-FreeRTOS-SAMD21
